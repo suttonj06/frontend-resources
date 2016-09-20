@@ -462,7 +462,7 @@ Style guides are a useful way to get everyone on the same page when it comes to 
     + Similar to other routers and inspired by the amazing EmberJS router.
 - [Redux](http://rackt.github.io/redux/) <a name="redux"></a>
   	+ A state container for javascript apps.
-  	+ Redux works really well with React apps becuase it builds of the ideas of flux.
+  	+ Redux works really well with React apps because it builds off the ideas of flux.
   	+ It's state maintenence allows for live code editing and even a time traveling debugger making the developer experience awesome.
   	+ Check out [this video](https://www.youtube.com/watch?v=xsSnOQynTHs) from React Europe 2015, where the creator [Dan Abramov](#danabramov) demonstrates his live reloading and time traveling debugging.
       + [Egghead.io](Egghead.io) has an awesome and free [series on Redux](https://egghead.io/series/getting-started-with-redux) by [Dan Abramov](#danabramov). Definitely check it out. He does a great job explaining Redux with some testing and ES6 along the way.
